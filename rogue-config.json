@@ -1,0 +1,11 @@
+{
+  "title": "FlappyBird",
+  "scenes": [
+    {
+      "name": "Main",
+      "uuid": "1aaeed70-45c2-4b1a-9466-8540f0a70ea2"
+    }
+  ],
+  "projectVersion": 26,
+  "lastOpenedScene": "\\Assets\\Scenes\\Main.rogueScene"
+}
